@@ -1,12 +1,9 @@
-var cacheName = 'PWA';
+var cacheName = 'hello-pwa';
 var filesToCache = [
   '',
   'index.html',
-  'map.html',
-  'sos.html',
   'css/style.css',
   'js/main.js'
-  
 ];
 
 /* Start the service worker and cache all of the app's content */
@@ -27,3 +24,4 @@ self.addEventListener('fetch', function(e) {
     })
   );
 });
+
