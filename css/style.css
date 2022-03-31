@@ -1,0 +1,17 @@
+.row{
+  height: 700px;
+}
+#btn{
+  background-color:red;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  margin-bottom:5%;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:25px;
+  padding-bottom:25px;
+  border-radius:15px;
+  font-size: 30px; 
+  font-weight: bold"
+}
