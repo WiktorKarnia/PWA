@@ -2,7 +2,7 @@ function vibrate_sos() {
     navigator.vibrate([300,100,300,100,300,100,600,100,600,100,600,100,300,100,300,100,300]);
   }
   
-  var x = document.getElementById("demo");
+var x = document.getElementById("demo");
   
 function getLocation() {
   if (navigator.geolocation) {
