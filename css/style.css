@@ -1,6 +1,7 @@
-.row{
-  height: 700px;
-}
+
 #btn{
-  width: 40%;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
