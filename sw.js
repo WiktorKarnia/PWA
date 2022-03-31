@@ -1,6 +1,5 @@
 var cacheName = 'PWA';
 var filesToCache = [
-  '/',
   '/index.html',
   '/sos.html',
   '/map.html',
